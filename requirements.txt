@@ -1,0 +1,5 @@
+Adafruit-BBIO==1.0.1
+Adafruit-GPIO==1.0.1
+Adafruit-PCA9685==1.0.1
+Adafruit-PureIO==0.2.1
+spidev==3.2
